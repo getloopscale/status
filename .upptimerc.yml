@@ -7,8 +7,8 @@
 # GitHub Pages at status.usetheo.dev — none of which touches TheoCloud or the
 # Cloudflare Pages project that serves usetheo.dev.
 
-owner: usetheodev
-repo: theo-status
+owner: getloopscale
+repo: status
 
 sites:
   - name: usetheo.dev (marketing site)
